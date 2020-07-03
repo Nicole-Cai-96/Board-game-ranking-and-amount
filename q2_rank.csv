@@ -1,0 +1,841 @@
+,type,year,average_rank,amount
+0,Age of Reason,1981,11202.0,2
+1,Age of Reason,1982,7097.0,1
+2,Age of Reason,1983,7508.0,1
+3,Age of Reason,1984,7508.0,0
+4,Age of Reason,1985,11974.0,1
+5,Age of Reason,1986,11974.0,0
+6,Age of Reason,1987,9974.0,1
+7,Age of Reason,1988,9974.0,0
+8,Age of Reason,1989,9974.0,0
+9,Age of Reason,1990,9974.0,0
+10,Age of Reason,1991,2660.0,1
+11,Age of Reason,1992,12351.0,1
+12,Age of Reason,1993,7205.0,5
+13,Age of Reason,1994,7909.0,2
+14,Age of Reason,1995,10964.0,5
+15,Age of Reason,1996,9518.0,3
+16,Age of Reason,1997,8394.0,4
+17,Age of Reason,1998,6986.0,2
+18,Age of Reason,1999,6986.0,0
+19,Age of Reason,2000,5212.0,2
+20,Age of Reason,2001,670.0,1
+21,Age of Reason,2002,8704.0,6
+22,Age of Reason,2003,2174.0,2
+23,Age of Reason,2004,4436.0,5
+24,Age of Reason,2005,5745.0,9
+25,Age of Reason,2006,12540.0,1
+26,Age of Reason,2007,4485.0,4
+27,Age of Reason,2008,5554.0,8
+28,Age of Reason,2009,4059.0,8
+29,Age of Reason,2010,4740.0,5
+30,Age of Reason,2011,5455.0,5
+31,Age of Reason,2012,6741.0,5
+32,Age of Reason,2013,2352.0,6
+33,Age of Reason,2014,4224.0,6
+34,Age of Reason,2015,5405.0,2
+35,Age of Reason,2016,4932.0,1
+36,Age of Reason,2017,4556.0,8
+37,Age of Reason,2018,5692.0,6
+38,Age of Reason,2019,9704.0,1
+39,Age of Reason,2020,9704.0,0
+40,American Revolutionary War,1981,11202.0,2
+41,American Revolutionary War,1982,10478.0,2
+42,American Revolutionary War,1983,10478.0,0
+43,American Revolutionary War,1984,10478.0,0
+44,American Revolutionary War,1985,11974.0,1
+45,American Revolutionary War,1986,11974.0,0
+46,American Revolutionary War,1987,11974.0,0
+47,American Revolutionary War,1988,3791.0,1
+48,American Revolutionary War,1989,3791.0,0
+49,American Revolutionary War,1990,3791.0,0
+50,American Revolutionary War,1991,3791.0,0
+51,American Revolutionary War,1992,12351.0,1
+52,American Revolutionary War,1993,1238.0,1
+53,American Revolutionary War,1994,8771.0,1
+54,American Revolutionary War,1995,11704.0,3
+55,American Revolutionary War,1996,11704.0,0
+56,American Revolutionary War,1997,7682.0,2
+57,American Revolutionary War,1998,2994.0,1
+58,American Revolutionary War,1999,2994.0,0
+59,American Revolutionary War,2000,5212.0,2
+60,American Revolutionary War,2001,5212.0,0
+61,American Revolutionary War,2002,6376.0,2
+62,American Revolutionary War,2003,2442.0,1
+63,American Revolutionary War,2004,10976.0,2
+64,American Revolutionary War,2005,4042.0,3
+65,American Revolutionary War,2006,4042.0,0
+66,American Revolutionary War,2007,6714.0,2
+67,American Revolutionary War,2008,7109.0,4
+68,American Revolutionary War,2009,8544.0,2
+69,American Revolutionary War,2010,4949.0,5
+70,American Revolutionary War,2011,8074.0,1
+71,American Revolutionary War,2012,7096.0,2
+72,American Revolutionary War,2013,3732.0,4
+73,American Revolutionary War,2014,6050.0,2
+74,American Revolutionary War,2015,9582.0,1
+75,American Revolutionary War,2016,4394.0,3
+76,American Revolutionary War,2017,4734.0,5
+77,American Revolutionary War,2018,7915.0,1
+78,American Revolutionary War,2019,7915.0,0
+79,American Revolutionary War,2020,7915.0,0
+80,Ancient,1981,10045.0,4
+81,Ancient,1982,10045.0,0
+82,Ancient,1983,11118.0,2
+83,Ancient,1984,5326.0,2
+84,Ancient,1985,8929.0,4
+85,Ancient,1986,5273.0,1
+86,Ancient,1987,5273.0,0
+87,Ancient,1988,9957.0,3
+88,Ancient,1989,6136.0,4
+89,Ancient,1990,10027.0,6
+90,Ancient,1991,6399.0,8
+91,Ancient,1992,7838.0,9
+92,Ancient,1993,9481.0,8
+93,Ancient,1994,9052.0,9
+94,Ancient,1995,8854.0,4
+95,Ancient,1996,9810.0,3
+96,Ancient,1997,8109.0,9
+97,Ancient,1998,9466.0,6
+98,Ancient,1999,5690.0,7
+99,Ancient,2000,8124.0,11
+100,Ancient,2001,8065.0,9
+101,Ancient,2002,7378.0,10
+102,Ancient,2003,5958.0,16
+103,Ancient,2004,7559.0,11
+104,Ancient,2005,4837.0,31
+105,Ancient,2006,6514.0,23
+106,Ancient,2007,6911.0,25
+107,Ancient,2008,5814.0,30
+108,Ancient,2009,4551.0,32
+109,Ancient,2010,5555.0,14
+110,Ancient,2011,6657.0,28
+111,Ancient,2012,6021.0,35
+112,Ancient,2013,6795.0,25
+113,Ancient,2014,4105.0,29
+114,Ancient,2015,5832.0,26
+115,Ancient,2016,4922.0,38
+116,Ancient,2017,6541.0,28
+117,Ancient,2018,6037.0,31
+118,Ancient,2019,4902.0,3
+119,Ancient,2020,4902.0,0
+120,Aviation,1981,4510.0,5
+121,Aviation,1982,11144.0,3
+122,Aviation,1983,3852.0,4
+123,Aviation,1984,3852.0,0
+124,Aviation,1985,10067.0,3
+125,Aviation,1986,7287.0,6
+126,Aviation,1987,7140.0,3
+127,Aviation,1988,5886.0,2
+128,Aviation,1989,7068.0,1
+129,Aviation,1990,5477.0,4
+130,Aviation,1991,5633.0,5
+131,Aviation,1992,4846.0,4
+132,Aviation,1993,7344.0,3
+133,Aviation,1994,5391.0,1
+134,Aviation,1995,5868.0,4
+135,Aviation,1996,8733.0,3
+136,Aviation,1997,8733.0,0
+137,Aviation,1998,13087.0,5
+138,Aviation,1999,6538.0,3
+139,Aviation,2000,6538.0,0
+140,Aviation,2001,2443.0,1
+141,Aviation,2002,12767.0,1
+142,Aviation,2003,7570.0,5
+143,Aviation,2004,2500.0,3
+144,Aviation,2005,4527.0,6
+145,Aviation,2006,10233.0,3
+146,Aviation,2007,6241.0,9
+147,Aviation,2008,4797.0,5
+148,Aviation,2009,5931.0,7
+149,Aviation,2010,7357.0,10
+150,Aviation,2011,5630.0,5
+151,Aviation,2012,4524.0,14
+152,Aviation,2013,6780.0,11
+153,Aviation,2014,6155.0,7
+154,Aviation,2015,6017.0,12
+155,Aviation,2016,8852.0,5
+156,Aviation,2017,6644.0,10
+157,Aviation,2018,6186.0,11
+158,Aviation,2019,3673.0,1
+159,Aviation,2020,3673.0,0
+160,City Building,1981,9361.0,1
+161,City Building,1982,9361.0,0
+162,City Building,1983,15386.0,1
+163,City Building,1984,15386.0,0
+164,City Building,1985,15386.0,0
+165,City Building,1986,11135.0,1
+166,City Building,1987,11135.0,0
+167,City Building,1988,11135.0,0
+168,City Building,1989,9198.0,2
+169,City Building,1990,9198.0,0
+170,City Building,1991,3882.0,2
+171,City Building,1992,7321.0,2
+172,City Building,1993,5279.0,1
+173,City Building,1994,8380.0,4
+174,City Building,1995,11726.0,1
+175,City Building,1996,4232.0,3
+176,City Building,1997,7065.0,3
+177,City Building,1998,8556.0,2
+178,City Building,1999,1694.0,4
+179,City Building,2000,2345.0,8
+180,City Building,2001,7013.0,4
+181,City Building,2002,4490.0,10
+182,City Building,2003,2150.0,8
+183,City Building,2004,5368.0,9
+184,City Building,2005,5649.0,12
+185,City Building,2006,3189.0,11
+186,City Building,2007,3956.0,9
+187,City Building,2008,3460.0,11
+188,City Building,2009,5021.0,16
+189,City Building,2010,4526.0,18
+190,City Building,2011,4599.0,28
+191,City Building,2012,3669.0,29
+192,City Building,2013,5204.0,25
+193,City Building,2014,4560.0,31
+194,City Building,2015,4577.0,31
+195,City Building,2016,3556.0,25
+196,City Building,2017,5667.0,36
+197,City Building,2018,5152.0,39
+198,City Building,2019,5630.0,12
+199,City Building,2020,5630.0,0
+200,Civilization,1981,7656.0,1
+201,Civilization,1982,4339.0,1
+202,Civilization,1983,9380.0,2
+203,Civilization,1984,16252.0,1
+204,Civilization,1985,16252.0,0
+205,Civilization,1986,615.0,1
+206,Civilization,1987,615.0,0
+207,Civilization,1988,615.0,0
+208,Civilization,1989,8262.0,1
+209,Civilization,1990,8262.0,0
+210,Civilization,1991,3368.0,4
+211,Civilization,1992,14929.0,1
+212,Civilization,1993,5657.0,2
+213,Civilization,1994,5825.0,1
+214,Civilization,1995,12193.0,3
+215,Civilization,1996,1010.0,1
+216,Civilization,1997,3198.0,4
+217,Civilization,1998,3198.0,0
+218,Civilization,1999,500.0,2
+219,Civilization,2000,6700.0,4
+220,Civilization,2001,13715.0,5
+221,Civilization,2002,4738.0,5
+222,Civilization,2003,4572.0,5
+223,Civilization,2004,3632.0,7
+224,Civilization,2005,3329.0,10
+225,Civilization,2006,4804.0,10
+226,Civilization,2007,4705.0,9
+227,Civilization,2008,3905.0,9
+228,Civilization,2009,2649.0,9
+229,Civilization,2010,3733.0,10
+230,Civilization,2011,4687.0,15
+231,Civilization,2012,5139.0,19
+232,Civilization,2013,5284.0,13
+233,Civilization,2014,2632.0,24
+234,Civilization,2015,4001.0,18
+235,Civilization,2016,4653.0,23
+236,Civilization,2017,4797.0,16
+237,Civilization,2018,3866.0,25
+238,Civilization,2019,5690.0,7
+239,Civilization,2020,5690.0,0
+240,Economic,1981,10037.0,13
+241,Economic,1982,11200.0,9
+242,Economic,1983,13144.0,9
+243,Economic,1984,9279.0,6
+244,Economic,1985,15304.0,8
+245,Economic,1986,7053.0,7
+246,Economic,1987,9289.0,9
+247,Economic,1988,12699.0,7
+248,Economic,1989,11328.0,8
+249,Economic,1990,7071.0,6
+250,Economic,1991,9507.0,9
+251,Economic,1992,5868.0,11
+252,Economic,1993,9480.0,6
+253,Economic,1994,8038.0,10
+254,Economic,1995,10166.0,8
+255,Economic,1996,10736.0,17
+256,Economic,1997,11219.0,16
+257,Economic,1998,9641.0,19
+258,Economic,1999,8529.0,22
+259,Economic,2000,12731.0,17
+260,Economic,2001,10067.0,25
+261,Economic,2002,7055.0,26
+262,Economic,2003,7312.0,22
+263,Economic,2004,7017.0,32
+264,Economic,2005,8128.0,35
+265,Economic,2006,6660.0,30
+266,Economic,2007,6429.0,45
+267,Economic,2008,5743.0,29
+268,Economic,2009,6042.0,50
+269,Economic,2010,5005.0,65
+270,Economic,2011,5126.0,53
+271,Economic,2012,5477.0,64
+272,Economic,2013,4725.0,69
+273,Economic,2014,6251.0,55
+274,Economic,2015,4996.0,81
+275,Economic,2016,5588.0,61
+276,Economic,2017,3988.0,73
+277,Economic,2018,5266.0,53
+278,Economic,2019,5938.0,11
+279,Economic,2020,7184.0,1
+280,Exploration,1981,9426.0,9
+281,Exploration,1982,8055.0,4
+282,Exploration,1983,7596.0,7
+283,Exploration,1984,13357.0,3
+284,Exploration,1985,2067.0,2
+285,Exploration,1986,10482.0,6
+286,Exploration,1987,11697.0,6
+287,Exploration,1988,7092.0,4
+288,Exploration,1989,7888.0,7
+289,Exploration,1990,10891.0,5
+290,Exploration,1991,12933.0,7
+291,Exploration,1992,8304.0,6
+292,Exploration,1993,10806.0,6
+293,Exploration,1994,9226.0,5
+294,Exploration,1995,6238.0,6
+295,Exploration,1996,10928.0,8
+296,Exploration,1997,9536.0,8
+297,Exploration,1998,11602.0,4
+298,Exploration,1999,3826.0,8
+299,Exploration,2000,7733.0,5
+300,Exploration,2001,9340.0,14
+301,Exploration,2002,8692.0,15
+302,Exploration,2003,9224.0,18
+303,Exploration,2004,4821.0,21
+304,Exploration,2005,6829.0,20
+305,Exploration,2006,11027.0,21
+306,Exploration,2007,7034.0,25
+307,Exploration,2008,6197.0,22
+308,Exploration,2009,6254.0,31
+309,Exploration,2010,5737.0,29
+310,Exploration,2011,5113.0,45
+311,Exploration,2012,5622.0,33
+312,Exploration,2013,5511.0,50
+313,Exploration,2014,6008.0,39
+314,Exploration,2015,6077.0,57
+315,Exploration,2016,7179.0,52
+316,Exploration,2017,4734.0,89
+317,Exploration,2018,4676.0,72
+318,Exploration,2019,5172.0,24
+319,Exploration,2020,10428.0,3
+320,Farming,1981,0,0
+321,Farming,1982,0,0
+322,Farming,1983,0,0
+323,Farming,1984,0,0
+324,Farming,1985,11701.0,3
+325,Farming,1986,11701.0,0
+326,Farming,1987,11701.0,0
+327,Farming,1988,11701.0,0
+328,Farming,1989,11869.0,3
+329,Farming,1990,11869.0,0
+330,Farming,1991,11417.0,1
+331,Farming,1992,11417.0,0
+332,Farming,1993,11417.0,0
+333,Farming,1994,5772.0,1
+334,Farming,1995,5772.0,0
+335,Farming,1996,15987.0,2
+336,Farming,1997,398.0,1
+337,Farming,1998,7341.0,2
+338,Farming,1999,15366.0,1
+339,Farming,2000,4184.0,1
+340,Farming,2001,12464.0,1
+341,Farming,2002,6815.0,4
+342,Farming,2003,3762.0,2
+343,Farming,2004,7361.0,4
+344,Farming,2005,7416.0,3
+345,Farming,2006,8353.0,1
+346,Farming,2007,4102.0,8
+347,Farming,2008,12010.0,5
+348,Farming,2009,3542.0,8
+349,Farming,2010,6153.0,14
+350,Farming,2011,4416.0,9
+351,Farming,2012,4746.0,13
+352,Farming,2013,1709.0,8
+353,Farming,2014,6705.0,8
+354,Farming,2015,4608.0,13
+355,Farming,2016,5509.0,18
+356,Farming,2017,4675.0,17
+357,Farming,2018,6236.0,18
+358,Farming,2019,6236.0,0
+359,Farming,2020,6236.0,0
+360,Industry,1981,0,0
+361,Industry,1982,0,0
+362,Industry,1983,15386.0,1
+363,Industry,1984,15386.0,0
+364,Industry,1985,15221.0,1
+365,Industry,1986,15221.0,0
+366,Industry,1987,15221.0,0
+367,Industry,1988,15221.0,0
+368,Industry,1989,15221.0,0
+369,Industry,1990,15221.0,0
+370,Industry,1991,11518.0,1
+371,Industry,1992,11518.0,0
+372,Industry,1993,13704.0,3
+373,Industry,1994,11485.0,1
+374,Industry,1995,11485.0,0
+375,Industry,1996,11485.0,0
+376,Industry,1997,12629.0,1
+377,Industry,1998,15397.0,1
+378,Industry,1999,6014.0,3
+379,Industry,2000,6014.0,0
+380,Industry,2001,1532.0,2
+381,Industry,2002,10216.0,3
+382,Industry,2003,6122.0,2
+383,Industry,2004,4630.0,3
+384,Industry,2005,195.0,1
+385,Industry,2006,6756.0,2
+386,Industry,2007,6105.0,6
+387,Industry,2008,3873.0,10
+388,Industry,2009,3538.0,6
+389,Industry,2010,5856.0,21
+390,Industry,2011,7339.0,9
+391,Industry,2012,5206.0,14
+392,Industry,2013,5121.0,22
+393,Industry,2014,5330.0,11
+394,Industry,2015,4067.0,26
+395,Industry,2016,5221.0,25
+396,Industry,2017,3120.0,17
+397,Industry,2018,3186.0,15
+398,Industry,2019,5149.0,4
+399,Industry,2020,5149.0,0
+400,Medieval,1981,6930.0,4
+401,Medieval,1982,9543.0,1
+402,Medieval,1983,9492.0,4
+403,Medieval,1984,10199.0,3
+404,Medieval,1985,10148.0,4
+405,Medieval,1986,7398.0,5
+406,Medieval,1987,7465.0,5
+407,Medieval,1988,16271.0,1
+408,Medieval,1989,5170.0,4
+409,Medieval,1990,11704.0,6
+410,Medieval,1991,9884.0,3
+411,Medieval,1992,8741.0,10
+412,Medieval,1993,9743.0,10
+413,Medieval,1994,11403.0,11
+414,Medieval,1995,6401.0,11
+415,Medieval,1996,7936.0,6
+416,Medieval,1997,7552.0,3
+417,Medieval,1998,8779.0,9
+418,Medieval,1999,7088.0,14
+419,Medieval,2000,5357.0,13
+420,Medieval,2001,11118.0,11
+421,Medieval,2002,6084.0,13
+422,Medieval,2003,7449.0,14
+423,Medieval,2004,6788.0,26
+424,Medieval,2005,6768.0,25
+425,Medieval,2006,5902.0,24
+426,Medieval,2007,5284.0,27
+427,Medieval,2008,5670.0,27
+428,Medieval,2009,5472.0,30
+429,Medieval,2010,5540.0,33
+430,Medieval,2011,5570.0,37
+431,Medieval,2012,6831.0,40
+432,Medieval,2013,6635.0,40
+433,Medieval,2014,6063.0,44
+434,Medieval,2015,5878.0,53
+435,Medieval,2016,6182.0,51
+436,Medieval,2017,5719.0,56
+437,Medieval,2018,4974.0,51
+438,Medieval,2019,6009.0,14
+439,Medieval,2020,6009.0,0
+440,Miniatures,1981,10422.0,2
+441,Miniatures,1982,10422.0,0
+442,Miniatures,1983,7958.0,2
+443,Miniatures,1984,7958.0,0
+444,Miniatures,1985,891.0,1
+445,Miniatures,1986,8677.0,4
+446,Miniatures,1987,3052.0,1
+447,Miniatures,1988,7608.0,3
+448,Miniatures,1989,3161.0,5
+449,Miniatures,1990,4357.0,9
+450,Miniatures,1991,11299.0,6
+451,Miniatures,1992,6190.0,7
+452,Miniatures,1993,7181.0,10
+453,Miniatures,1994,7440.0,9
+454,Miniatures,1995,6480.0,9
+455,Miniatures,1996,6370.0,6
+456,Miniatures,1997,8352.0,13
+457,Miniatures,1998,9597.0,9
+458,Miniatures,1999,4733.0,5
+459,Miniatures,2000,6642.0,8
+460,Miniatures,2001,8640.0,12
+461,Miniatures,2002,7122.0,18
+462,Miniatures,2003,7600.0,19
+463,Miniatures,2004,5148.0,27
+464,Miniatures,2005,8255.0,20
+465,Miniatures,2006,7409.0,26
+466,Miniatures,2007,5612.0,23
+467,Miniatures,2008,6931.0,24
+468,Miniatures,2009,6617.0,29
+469,Miniatures,2010,5268.0,28
+470,Miniatures,2011,5692.0,29
+471,Miniatures,2012,4232.0,42
+472,Miniatures,2013,5280.0,31
+473,Miniatures,2014,6054.0,43
+474,Miniatures,2015,4467.0,54
+475,Miniatures,2016,5529.0,59
+476,Miniatures,2017,5113.0,60
+477,Miniatures,2018,5204.0,65
+478,Miniatures,2019,6095.0,30
+479,Miniatures,2020,9444.0,2
+480,Mythology,1981,12917.0,1
+481,Mythology,1982,9543.0,1
+482,Mythology,1983,16375.0,1
+483,Mythology,1984,16375.0,0
+484,Mythology,1985,16375.0,0
+485,Mythology,1986,16375.0,0
+486,Mythology,1987,16375.0,0
+487,Mythology,1988,16375.0,0
+488,Mythology,1989,16375.0,0
+489,Mythology,1990,16375.0,0
+490,Mythology,1991,16375.0,0
+491,Mythology,1992,15379.0,1
+492,Mythology,1993,15379.0,0
+493,Mythology,1994,16400.0,1
+494,Mythology,1995,16400.0,0
+495,Mythology,1996,13965.0,1
+496,Mythology,1997,4100.0,2
+497,Mythology,1998,14962.0,1
+498,Mythology,1999,147.0,1
+499,Mythology,2000,3118.0,2
+500,Mythology,2001,11051.0,1
+501,Mythology,2002,2728.0,3
+502,Mythology,2003,11034.0,4
+503,Mythology,2004,7070.0,7
+504,Mythology,2005,5946.0,10
+505,Mythology,2006,5615.0,4
+506,Mythology,2007,11354.0,6
+507,Mythology,2008,5924.0,4
+508,Mythology,2009,7004.0,13
+509,Mythology,2010,7318.0,12
+510,Mythology,2011,6933.0,11
+511,Mythology,2012,7006.0,21
+512,Mythology,2013,7186.0,10
+513,Mythology,2014,5314.0,25
+514,Mythology,2015,5356.0,20
+515,Mythology,2016,5945.0,36
+516,Mythology,2017,5284.0,24
+517,Mythology,2018,6829.0,23
+518,Mythology,2019,4821.0,4
+519,Mythology,2020,9319.0,1
+520,Political,1981,9938.0,4
+521,Political,1982,4339.0,1
+522,Political,1983,9244.0,6
+523,Political,1984,10022.0,3
+524,Political,1985,2932.0,2
+525,Political,1986,7385.0,5
+526,Political,1987,4816.0,3
+527,Political,1988,10194.0,2
+528,Political,1989,5535.0,1
+529,Political,1990,6819.0,6
+530,Political,1991,11646.0,4
+531,Political,1992,6786.0,4
+532,Political,1993,9762.0,1
+533,Political,1994,6722.0,7
+534,Political,1995,8208.0,2
+535,Political,1996,8506.0,3
+536,Political,1997,9670.0,8
+537,Political,1998,9486.0,9
+538,Political,1999,11033.0,6
+539,Political,2000,5033.0,5
+540,Political,2001,2410.0,5
+541,Political,2002,9737.0,3
+542,Political,2003,7747.0,8
+543,Political,2004,6937.0,14
+544,Political,2005,4363.0,11
+545,Political,2006,8037.0,16
+546,Political,2007,4732.0,10
+547,Political,2008,8060.0,15
+548,Political,2009,6802.0,17
+549,Political,2010,4982.0,15
+550,Political,2011,4241.0,11
+551,Political,2012,4282.0,20
+552,Political,2013,5913.0,16
+553,Political,2014,5756.0,14
+554,Political,2015,5965.0,22
+555,Political,2016,6604.0,27
+556,Political,2017,6180.0,23
+557,Political,2018,6530.0,17
+558,Political,2019,6465.0,3
+559,Political,2020,6465.0,0
+560,Post-Napoleonic,1981,68.0,1
+561,Post-Napoleonic,1982,11749.0,1
+562,Post-Napoleonic,1983,1049.0,1
+563,Post-Napoleonic,1984,1049.0,0
+564,Post-Napoleonic,1985,2699.0,1
+565,Post-Napoleonic,1986,7755.0,1
+566,Post-Napoleonic,1987,7755.0,0
+567,Post-Napoleonic,1988,7755.0,0
+568,Post-Napoleonic,1989,9322.0,1
+569,Post-Napoleonic,1990,9322.0,0
+570,Post-Napoleonic,1991,10712.0,2
+571,Post-Napoleonic,1992,8439.0,2
+572,Post-Napoleonic,1993,10444.0,4
+573,Post-Napoleonic,1994,7178.0,3
+574,Post-Napoleonic,1995,7178.0,0
+575,Post-Napoleonic,1996,10947.0,1
+576,Post-Napoleonic,1997,11458.0,4
+577,Post-Napoleonic,1998,12250.0,1
+578,Post-Napoleonic,1999,6611.0,1
+579,Post-Napoleonic,2000,9061.0,4
+580,Post-Napoleonic,2001,9061.0,0
+581,Post-Napoleonic,2002,9061.0,0
+582,Post-Napoleonic,2003,1961.0,1
+583,Post-Napoleonic,2004,7266.0,4
+584,Post-Napoleonic,2005,13506.0,1
+585,Post-Napoleonic,2006,13506.0,0
+586,Post-Napoleonic,2007,2278.0,2
+587,Post-Napoleonic,2008,5671.0,2
+588,Post-Napoleonic,2009,1574.0,1
+589,Post-Napoleonic,2010,2852.0,3
+590,Post-Napoleonic,2011,5543.0,4
+591,Post-Napoleonic,2012,5823.0,3
+592,Post-Napoleonic,2013,4726.0,2
+593,Post-Napoleonic,2014,95.0,1
+594,Post-Napoleonic,2015,5664.0,1
+595,Post-Napoleonic,2016,6558.0,5
+596,Post-Napoleonic,2017,4681.0,3
+597,Post-Napoleonic,2018,5588.0,7
+598,Post-Napoleonic,2019,6710.0,1
+599,Post-Napoleonic,2020,6710.0,0
+600,Renaissance,1981,0,0
+601,Renaissance,1982,0,0
+602,Renaissance,1983,0,0
+603,Renaissance,1984,8463.0,1
+604,Renaissance,1985,8463.0,0
+605,Renaissance,1986,9550.0,2
+606,Renaissance,1987,9550.0,0
+607,Renaissance,1988,9550.0,0
+608,Renaissance,1989,9550.0,0
+609,Renaissance,1990,10828.0,2
+610,Renaissance,1991,7006.0,2
+611,Renaissance,1992,13542.0,1
+612,Renaissance,1993,7822.0,3
+613,Renaissance,1994,6918.0,3
+614,Renaissance,1995,4292.0,3
+615,Renaissance,1996,6228.0,4
+616,Renaissance,1997,12048.0,2
+617,Renaissance,1998,12048.0,0
+618,Renaissance,1999,4952.0,1
+619,Renaissance,2000,4550.0,4
+620,Renaissance,2001,3425.0,2
+621,Renaissance,2002,5369.0,4
+622,Renaissance,2003,7692.0,6
+623,Renaissance,2004,7462.0,8
+624,Renaissance,2005,3254.0,3
+625,Renaissance,2006,2020.0,5
+626,Renaissance,2007,5843.0,8
+627,Renaissance,2008,4135.0,5
+628,Renaissance,2009,4532.0,15
+629,Renaissance,2010,2905.0,10
+630,Renaissance,2011,6566.0,11
+631,Renaissance,2012,2619.0,16
+632,Renaissance,2013,4518.0,19
+633,Renaissance,2014,3916.0,6
+634,Renaissance,2015,4042.0,11
+635,Renaissance,2016,3638.0,15
+636,Renaissance,2017,5726.0,17
+637,Renaissance,2018,4244.0,8
+638,Renaissance,2019,5220.0,2
+639,Renaissance,2020,8991.0,2
+640,Space Exploration,1981,8752.0,2
+641,Space Exploration,1982,8366.0,2
+642,Space Exploration,1983,7729.0,2
+643,Space Exploration,1984,16943.0,1
+644,Space Exploration,1985,16943.0,0
+645,Space Exploration,1986,16943.0,0
+646,Space Exploration,1987,16943.0,0
+647,Space Exploration,1988,7168.0,2
+648,Space Exploration,1989,5017.0,1
+649,Space Exploration,1990,13834.0,1
+650,Space Exploration,1991,13834.0,0
+651,Space Exploration,1992,3157.0,1
+652,Space Exploration,1993,16730.0,1
+653,Space Exploration,1994,15108.0,1
+654,Space Exploration,1995,2912.0,1
+655,Space Exploration,1996,2912.0,0
+656,Space Exploration,1997,8997.0,5
+657,Space Exploration,1998,8997.0,0
+658,Space Exploration,1999,1722.0,2
+659,Space Exploration,2000,7876.0,2
+660,Space Exploration,2001,897.0,1
+661,Space Exploration,2002,4845.0,1
+662,Space Exploration,2003,9511.0,2
+663,Space Exploration,2004,11926.0,2
+664,Space Exploration,2005,5415.0,4
+665,Space Exploration,2006,14762.0,2
+666,Space Exploration,2007,5800.0,5
+667,Space Exploration,2008,2727.0,7
+668,Space Exploration,2009,5509.0,8
+669,Space Exploration,2010,6292.0,5
+670,Space Exploration,2011,4747.0,16
+671,Space Exploration,2012,4872.0,10
+672,Space Exploration,2013,5397.0,16
+673,Space Exploration,2014,6435.0,10
+674,Space Exploration,2015,6782.0,16
+675,Space Exploration,2016,6234.0,14
+676,Space Exploration,2017,5023.0,28
+677,Space Exploration,2018,5249.0,17
+678,Space Exploration,2019,6478.0,3
+679,Space Exploration,2020,6478.0,0
+680,Spies,1981,3020.0,3
+681,Spies,1982,15358.0,1
+682,Spies,1983,15358.0,0
+683,Spies,1984,7969.0,2
+684,Spies,1985,14480.0,2
+685,Spies,1986,15140.0,2
+686,Spies,1987,9382.0,2
+687,Spies,1988,7190.0,2
+688,Spies,1989,7190.0,0
+689,Spies,1990,8451.0,1
+690,Spies,1991,8451.0,0
+691,Spies,1992,4903.0,2
+692,Spies,1993,4903.0,0
+693,Spies,1994,4903.0,0
+694,Spies,1995,4903.0,0
+695,Spies,1996,16575.0,1
+696,Spies,1997,8840.0,1
+697,Spies,1998,8840.0,0
+698,Spies,1999,8840.0,0
+699,Spies,2000,8840.0,0
+700,Spies,2001,8840.0,0
+701,Spies,2002,16650.0,1
+702,Spies,2003,5170.0,2
+703,Spies,2004,9983.0,7
+704,Spies,2005,8254.0,2
+705,Spies,2006,4983.0,1
+706,Spies,2007,7449.0,4
+707,Spies,2008,66.0,1
+708,Spies,2009,6040.0,3
+709,Spies,2010,7008.0,4
+710,Spies,2011,4052.0,3
+711,Spies,2012,5831.0,12
+712,Spies,2013,5641.0,9
+713,Spies,2014,5932.0,8
+714,Spies,2015,4167.0,14
+715,Spies,2016,5592.0,17
+716,Spies,2017,4733.0,16
+717,Spies,2018,6820.0,14
+718,Spies,2019,7030.0,2
+719,Spies,2020,7030.0,0
+720,Territory Building,1981,12457.0,1
+721,Territory Building,1982,12457.0,0
+722,Territory Building,1983,4762.0,1
+723,Territory Building,1984,4762.0,0
+724,Territory Building,1985,3164.0,1
+725,Territory Building,1986,11960.0,4
+726,Territory Building,1987,3129.0,1
+727,Territory Building,1988,3129.0,0
+728,Territory Building,1989,3129.0,0
+729,Territory Building,1990,7869.0,1
+730,Territory Building,1991,3693.0,1
+731,Territory Building,1992,3693.0,0
+732,Territory Building,1993,3693.0,0
+733,Territory Building,1994,3918.0,1
+734,Territory Building,1995,10904.0,1
+735,Territory Building,1996,4560.0,3
+736,Territory Building,1997,5128.0,3
+737,Territory Building,1998,15397.0,1
+738,Territory Building,1999,3505.0,9
+739,Territory Building,2000,594.0,5
+740,Territory Building,2001,9214.0,5
+741,Territory Building,2002,5709.0,6
+742,Territory Building,2003,4349.0,14
+743,Territory Building,2004,4927.0,14
+744,Territory Building,2005,4560.0,12
+745,Territory Building,2006,7561.0,21
+746,Territory Building,2007,5382.0,11
+747,Territory Building,2008,6187.0,11
+748,Territory Building,2009,6149.0,12
+749,Territory Building,2010,6290.0,6
+750,Territory Building,2011,4820.0,22
+751,Territory Building,2012,4705.0,26
+752,Territory Building,2013,5554.0,21
+753,Territory Building,2014,4723.0,23
+754,Territory Building,2015,4848.0,29
+755,Territory Building,2016,5185.0,32
+756,Territory Building,2017,5289.0,31
+757,Territory Building,2018,5082.0,34
+758,Territory Building,2019,7211.0,10
+759,Territory Building,2020,7211.0,0
+760,Trains,1981,10476.0,2
+761,Trains,1982,1068.0,1
+762,Trains,1983,1068.0,0
+763,Trains,1984,3040.0,2
+764,Trains,1985,10614.0,3
+765,Trains,1986,171.0,1
+766,Trains,1987,15330.0,1
+767,Trains,1988,14733.0,1
+768,Trains,1989,2818.0,1
+769,Trains,1990,2467.0,3
+770,Trains,1991,1565.0,1
+771,Trains,1992,4735.0,5
+772,Trains,1993,3576.0,1
+773,Trains,1994,6899.0,7
+774,Trains,1995,2472.0,4
+775,Trains,1996,11599.0,3
+776,Trains,1997,7489.0,2
+777,Trains,1998,6663.0,7
+778,Trains,1999,5160.0,7
+779,Trains,2000,7970.0,6
+780,Trains,2001,4447.0,10
+781,Trains,2002,5849.0,6
+782,Trains,2003,6245.0,6
+783,Trains,2004,5422.0,8
+784,Trains,2005,4486.0,15
+785,Trains,2006,4518.0,7
+786,Trains,2007,6467.0,9
+787,Trains,2008,4238.0,5
+788,Trains,2009,5006.0,15
+789,Trains,2010,5116.0,16
+790,Trains,2011,7045.0,17
+791,Trains,2012,5630.0,10
+792,Trains,2013,5914.0,12
+793,Trains,2014,6594.0,21
+794,Trains,2015,5636.0,12
+795,Trains,2016,2969.0,11
+796,Trains,2017,4992.0,11
+797,Trains,2018,5010.0,15
+798,Trains,2019,8124.0,1
+799,Trains,2020,7184.0,1
+800,Transportation,1981,9719.0,2
+801,Transportation,1982,9308.0,4
+802,Transportation,1983,16357.0,1
+803,Transportation,1984,10552.0,3
+804,Transportation,1985,2705.0,1
+805,Transportation,1986,6830.0,2
+806,Transportation,1987,11166.0,3
+807,Transportation,1988,10221.0,4
+808,Transportation,1989,2818.0,1
+809,Transportation,1990,1200.0,1
+810,Transportation,1991,1565.0,1
+811,Transportation,1992,6682.0,4
+812,Transportation,1993,6682.0,0
+813,Transportation,1994,3389.0,4
+814,Transportation,1995,6050.0,5
+815,Transportation,1996,9664.0,3
+816,Transportation,1997,6983.0,2
+817,Transportation,1998,2914.0,3
+818,Transportation,1999,5088.0,8
+819,Transportation,2000,5871.0,3
+820,Transportation,2001,5455.0,4
+821,Transportation,2002,4044.0,3
+822,Transportation,2003,5559.0,5
+823,Transportation,2004,3507.0,9
+824,Transportation,2005,2910.0,9
+825,Transportation,2006,4641.0,10
+826,Transportation,2007,5558.0,12
+827,Transportation,2008,6154.0,11
+828,Transportation,2009,6706.0,18
+829,Transportation,2010,5452.0,18
+830,Transportation,2011,5774.0,13
+831,Transportation,2012,5749.0,17
+832,Transportation,2013,4791.0,16
+833,Transportation,2014,5142.0,18
+834,Transportation,2015,7513.0,17
+835,Transportation,2016,4057.0,13
+836,Transportation,2017,6240.0,13
+837,Transportation,2018,5133.0,17
+838,Transportation,2019,6369.0,3
+839,Transportation,2020,7184.0,1

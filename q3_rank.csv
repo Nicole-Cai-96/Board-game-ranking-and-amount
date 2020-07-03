@@ -1,0 +1,841 @@
+,mechanic,year,average_rank,amount
+0,Action Programming,1981,5948.0,4
+1,Action Programming,1982,6303.0,3
+2,Action Programming,1983,6303.0,0
+3,Action Programming,1984,10783.0,2
+4,Action Programming,1985,12084.0,1
+5,Action Programming,1986,12084.0,0
+6,Action Programming,1987,2980.0,1
+7,Action Programming,1988,16278.0,1
+8,Action Programming,1989,5663.0,1
+9,Action Programming,1990,5663.0,0
+10,Action Programming,1991,11117.0,3
+11,Action Programming,1992,9323.0,3
+12,Action Programming,1993,9323.0,0
+13,Action Programming,1994,2882.0,2
+14,Action Programming,1995,2882.0,0
+15,Action Programming,1996,2882.0,0
+16,Action Programming,1997,2348.0,1
+17,Action Programming,1998,10989.0,3
+18,Action Programming,1999,4560.0,2
+19,Action Programming,2000,3759.0,2
+20,Action Programming,2001,9712.0,3
+21,Action Programming,2002,7496.0,5
+22,Action Programming,2003,9116.0,3
+23,Action Programming,2004,7830.0,5
+24,Action Programming,2005,2300.0,4
+25,Action Programming,2006,6438.0,3
+26,Action Programming,2007,2475.0,5
+27,Action Programming,2008,6827.0,4
+28,Action Programming,2009,3745.0,6
+29,Action Programming,2010,4742.0,7
+30,Action Programming,2011,4428.0,2
+31,Action Programming,2012,2780.0,10
+32,Action Programming,2013,4535.0,26
+33,Action Programming,2014,7634.0,20
+34,Action Programming,2015,4192.0,21
+35,Action Programming,2016,7118.0,41
+36,Action Programming,2017,6272.0,39
+37,Action Programming,2018,6563.0,47
+38,Action Programming,2019,6182.0,10
+39,Action Programming,2020,6182.0,0
+40,Action Point Allowance,1981,12296.0,7
+41,Action Point Allowance,1982,8124.0,3
+42,Action Point Allowance,1983,9251.0,4
+43,Action Point Allowance,1984,9251.0,0
+44,Action Point Allowance,1985,9693.0,5
+45,Action Point Allowance,1986,11173.0,5
+46,Action Point Allowance,1987,7330.0,6
+47,Action Point Allowance,1988,8976.0,2
+48,Action Point Allowance,1989,4113.0,3
+49,Action Point Allowance,1990,9275.0,4
+50,Action Point Allowance,1991,10781.0,6
+51,Action Point Allowance,1992,6132.0,5
+52,Action Point Allowance,1993,8931.0,7
+53,Action Point Allowance,1994,8497.0,4
+54,Action Point Allowance,1995,9312.0,4
+55,Action Point Allowance,1996,8378.0,8
+56,Action Point Allowance,1997,8351.0,5
+57,Action Point Allowance,1998,8498.0,4
+58,Action Point Allowance,1999,3692.0,4
+59,Action Point Allowance,2000,8012.0,5
+60,Action Point Allowance,2001,9427.0,15
+61,Action Point Allowance,2002,6274.0,18
+62,Action Point Allowance,2003,8347.0,23
+63,Action Point Allowance,2004,5886.0,21
+64,Action Point Allowance,2005,5710.0,24
+65,Action Point Allowance,2006,8463.0,31
+66,Action Point Allowance,2007,5557.0,11
+67,Action Point Allowance,2008,5020.0,24
+68,Action Point Allowance,2009,5150.0,41
+69,Action Point Allowance,2010,5940.0,39
+70,Action Point Allowance,2011,6029.0,48
+71,Action Point Allowance,2012,5250.0,46
+72,Action Point Allowance,2013,5170.0,52
+73,Action Point Allowance,2014,4976.0,51
+74,Action Point Allowance,2015,4986.0,77
+75,Action Point Allowance,2016,5710.0,87
+76,Action Point Allowance,2017,5174.0,69
+77,Action Point Allowance,2018,5233.0,58
+78,Action Point Allowance,2019,6244.0,20
+79,Action Point Allowance,2020,8663.0,1
+80,Area Control,1981,0,0
+81,Area Control,1982,0,0
+82,Area Control,1983,9024.0,3
+83,Area Control,1984,10550.0,2
+84,Area Control,1985,8908.0,4
+85,Area Control,1986,8611.0,4
+86,Area Control,1987,3026.0,1
+87,Area Control,1988,2492.0,2
+88,Area Control,1989,7033.0,1
+89,Area Control,1990,7033.0,0
+90,Area Control,1991,5887.0,4
+91,Area Control,1992,3272.0,5
+92,Area Control,1993,8615.0,5
+93,Area Control,1994,4581.0,7
+94,Area Control,1995,5703.0,6
+95,Area Control,1996,4155.0,5
+96,Area Control,1997,6216.0,9
+97,Area Control,1998,3316.0,8
+98,Area Control,1999,4281.0,14
+99,Area Control,2000,2384.0,12
+100,Area Control,2001,4297.0,17
+101,Area Control,2002,1899.0,12
+102,Area Control,2003,2969.0,16
+103,Area Control,2004,3005.0,26
+104,Area Control,2005,3103.0,28
+105,Area Control,2006,4868.0,27
+106,Area Control,2007,4976.0,40
+107,Area Control,2008,6370.0,45
+108,Area Control,2009,5643.0,47
+109,Area Control,2010,4585.0,46
+110,Area Control,2011,5799.0,64
+111,Area Control,2012,5994.0,83
+112,Area Control,2013,5366.0,86
+113,Area Control,2014,4963.0,90
+114,Area Control,2015,5479.0,110
+115,Area Control,2016,5691.0,116
+116,Area Control,2017,5608.0,126
+117,Area Control,2018,5269.0,112
+118,Area Control,2019,7228.0,18
+119,Area Control,2020,7228.0,0
+120,Area Enclosure,1981,0,0
+121,Area Enclosure,1982,0,0
+122,Area Enclosure,1983,0,0
+123,Area Enclosure,1984,0,0
+124,Area Enclosure,1985,12173.0,1
+125,Area Enclosure,1986,11135.0,1
+126,Area Enclosure,1987,11135.0,0
+127,Area Enclosure,1988,11135.0,0
+128,Area Enclosure,1989,11135.0,0
+129,Area Enclosure,1990,11824.0,2
+130,Area Enclosure,1991,11824.0,0
+131,Area Enclosure,1992,3566.0,1
+132,Area Enclosure,1993,12802.0,1
+133,Area Enclosure,1994,12802.0,0
+134,Area Enclosure,1995,12802.0,0
+135,Area Enclosure,1996,12802.0,0
+136,Area Enclosure,1997,8405.0,1
+137,Area Enclosure,1998,1088.0,2
+138,Area Enclosure,1999,2496.0,3
+139,Area Enclosure,2000,6778.0,3
+140,Area Enclosure,2001,6181.0,1
+141,Area Enclosure,2002,6454.0,9
+142,Area Enclosure,2003,4275.0,9
+143,Area Enclosure,2004,8336.0,5
+144,Area Enclosure,2005,6803.0,8
+145,Area Enclosure,2006,7270.0,10
+146,Area Enclosure,2007,7704.0,7
+147,Area Enclosure,2008,9630.0,6
+148,Area Enclosure,2009,6937.0,14
+149,Area Enclosure,2010,6155.0,4
+150,Area Enclosure,2011,6201.0,8
+151,Area Enclosure,2012,5125.0,12
+152,Area Enclosure,2013,5316.0,7
+153,Area Enclosure,2014,5396.0,6
+154,Area Enclosure,2015,5631.0,6
+155,Area Enclosure,2016,2679.0,6
+156,Area Enclosure,2017,5653.0,7
+157,Area Enclosure,2018,5409.0,9
+158,Area Enclosure,2019,6632.0,4
+159,Area Enclosure,2020,6632.0,0
+160,Campaign Driven,1981,0,0
+161,Campaign Driven,1982,11278.0,1
+162,Campaign Driven,1983,9984.0,3
+163,Campaign Driven,1984,9984.0,0
+164,Campaign Driven,1985,7744.0,2
+165,Campaign Driven,1986,7661.0,3
+166,Campaign Driven,1987,6400.0,1
+167,Campaign Driven,1988,2336.0,2
+168,Campaign Driven,1989,6092.0,2
+169,Campaign Driven,1990,6092.0,0
+170,Campaign Driven,1991,8674.0,4
+171,Campaign Driven,1992,9416.0,3
+172,Campaign Driven,1993,6601.0,5
+173,Campaign Driven,1994,16991.0,1
+174,Campaign Driven,1995,11409.0,2
+175,Campaign Driven,1996,7218.0,3
+176,Campaign Driven,1997,7448.0,2
+177,Campaign Driven,1998,8558.0,7
+178,Campaign Driven,1999,5775.0,4
+179,Campaign Driven,2000,9804.0,7
+180,Campaign Driven,2001,8279.0,7
+181,Campaign Driven,2002,4045.0,9
+182,Campaign Driven,2003,9748.0,13
+183,Campaign Driven,2004,5689.0,9
+184,Campaign Driven,2005,5179.0,14
+185,Campaign Driven,2006,7629.0,16
+186,Campaign Driven,2007,8632.0,11
+187,Campaign Driven,2008,4679.0,21
+188,Campaign Driven,2009,5564.0,20
+189,Campaign Driven,2010,4843.0,31
+190,Campaign Driven,2011,6139.0,26
+191,Campaign Driven,2012,4967.0,27
+192,Campaign Driven,2013,5616.0,24
+193,Campaign Driven,2014,7348.0,27
+194,Campaign Driven,2015,6534.0,23
+195,Campaign Driven,2016,5630.0,31
+196,Campaign Driven,2017,5730.0,34
+197,Campaign Driven,2018,6061.0,27
+198,Campaign Driven,2019,5889.0,8
+199,Campaign Driven,2020,5889.0,0
+200,Card Drafting,1981,0,0
+201,Card Drafting,1982,15682.0,1
+202,Card Drafting,1983,13066.0,1
+203,Card Drafting,1984,13066.0,0
+204,Card Drafting,1985,10550.0,1
+205,Card Drafting,1986,8016.0,2
+206,Card Drafting,1987,8596.0,2
+207,Card Drafting,1988,13653.0,3
+208,Card Drafting,1989,9617.0,1
+209,Card Drafting,1990,9898.0,3
+210,Card Drafting,1991,13894.0,2
+211,Card Drafting,1992,3526.0,2
+212,Card Drafting,1993,8398.0,5
+213,Card Drafting,1994,13023.0,3
+214,Card Drafting,1995,8495.0,8
+215,Card Drafting,1996,7957.0,10
+216,Card Drafting,1997,9633.0,5
+217,Card Drafting,1998,5875.0,13
+218,Card Drafting,1999,5388.0,6
+219,Card Drafting,2000,4061.0,9
+220,Card Drafting,2001,6825.0,12
+221,Card Drafting,2002,8889.0,14
+222,Card Drafting,2003,7794.0,23
+223,Card Drafting,2004,7999.0,29
+224,Card Drafting,2005,7089.0,36
+225,Card Drafting,2006,8130.0,36
+226,Card Drafting,2007,9056.0,47
+227,Card Drafting,2008,7775.0,37
+228,Card Drafting,2009,7171.0,51
+229,Card Drafting,2010,6019.0,61
+230,Card Drafting,2011,5072.0,78
+231,Card Drafting,2012,5826.0,85
+232,Card Drafting,2013,4824.0,82
+233,Card Drafting,2014,6149.0,117
+234,Card Drafting,2015,5351.0,138
+235,Card Drafting,2016,5501.0,135
+236,Card Drafting,2017,5506.0,151
+237,Card Drafting,2018,5883.0,125
+238,Card Drafting,2019,5675.0,28
+239,Card Drafting,2020,11740.0,1
+240,Commodity Speculation,1981,13516.0,4
+241,Commodity Speculation,1982,9265.0,3
+242,Commodity Speculation,1983,9265.0,0
+243,Commodity Speculation,1984,14594.0,1
+244,Commodity Speculation,1985,9503.0,1
+245,Commodity Speculation,1986,16379.0,1
+246,Commodity Speculation,1987,6852.0,4
+247,Commodity Speculation,1988,6716.0,2
+248,Commodity Speculation,1989,11951.0,3
+249,Commodity Speculation,1990,11951.0,0
+250,Commodity Speculation,1991,9954.0,3
+251,Commodity Speculation,1992,1371.0,2
+252,Commodity Speculation,1993,8329.0,2
+253,Commodity Speculation,1994,10371.0,3
+254,Commodity Speculation,1995,10371.0,0
+255,Commodity Speculation,1996,11828.0,5
+256,Commodity Speculation,1997,12648.0,3
+257,Commodity Speculation,1998,5835.0,1
+258,Commodity Speculation,1999,8456.0,11
+259,Commodity Speculation,2000,644.0,1
+260,Commodity Speculation,2001,644.0,0
+261,Commodity Speculation,2002,9422.0,3
+262,Commodity Speculation,2003,6624.0,6
+263,Commodity Speculation,2004,5693.0,5
+264,Commodity Speculation,2005,5412.0,5
+265,Commodity Speculation,2006,6114.0,7
+266,Commodity Speculation,2007,6284.0,6
+267,Commodity Speculation,2008,1333.0,3
+268,Commodity Speculation,2009,4942.0,14
+269,Commodity Speculation,2010,6421.0,13
+270,Commodity Speculation,2011,2881.0,6
+271,Commodity Speculation,2012,5565.0,15
+272,Commodity Speculation,2013,8086.0,6
+273,Commodity Speculation,2014,8278.0,10
+274,Commodity Speculation,2015,5184.0,15
+275,Commodity Speculation,2016,6962.0,9
+276,Commodity Speculation,2017,5487.0,15
+277,Commodity Speculation,2018,7002.0,7
+278,Commodity Speculation,2019,6290.0,2
+279,Commodity Speculation,2020,6290.0,0
+280,Cooperative Play,1981,6168.0,2
+281,Cooperative Play,1982,5729.0,2
+282,Cooperative Play,1983,13161.0,6
+283,Cooperative Play,1984,14794.0,1
+284,Cooperative Play,1985,4469.0,1
+285,Cooperative Play,1986,10308.0,6
+286,Cooperative Play,1987,3582.0,1
+287,Cooperative Play,1988,15949.0,1
+288,Cooperative Play,1989,4583.0,3
+289,Cooperative Play,1990,12646.0,1
+290,Cooperative Play,1991,10539.0,6
+291,Cooperative Play,1992,12997.0,5
+292,Cooperative Play,1993,12442.0,4
+293,Cooperative Play,1994,11569.0,9
+294,Cooperative Play,1995,9070.0,6
+295,Cooperative Play,1996,14992.0,3
+296,Cooperative Play,1997,12028.0,4
+297,Cooperative Play,1998,9192.0,3
+298,Cooperative Play,1999,9192.0,0
+299,Cooperative Play,2000,10993.0,7
+300,Cooperative Play,2001,13688.0,5
+301,Cooperative Play,2002,10335.0,7
+302,Cooperative Play,2003,11129.0,9
+303,Cooperative Play,2004,8473.0,12
+304,Cooperative Play,2005,10138.0,12
+305,Cooperative Play,2006,11857.0,4
+306,Cooperative Play,2007,9581.0,10
+307,Cooperative Play,2008,8616.0,19
+308,Cooperative Play,2009,8589.0,21
+309,Cooperative Play,2010,6509.0,30
+310,Cooperative Play,2011,4659.0,26
+311,Cooperative Play,2012,6359.0,38
+312,Cooperative Play,2013,7273.0,62
+313,Cooperative Play,2014,6079.0,64
+314,Cooperative Play,2015,5787.0,108
+315,Cooperative Play,2016,5347.0,121
+316,Cooperative Play,2017,5027.0,164
+317,Cooperative Play,2018,5317.0,143
+318,Cooperative Play,2019,6557.0,39
+319,Cooperative Play,2020,9986.0,4
+320,Crayon Rail System,1981,14018.0,1
+321,Crayon Rail System,1982,1068.0,1
+322,Crayon Rail System,1983,1068.0,0
+323,Crayon Rail System,1984,2429.0,1
+324,Crayon Rail System,1985,7905.0,1
+325,Crayon Rail System,1986,7905.0,0
+326,Crayon Rail System,1987,7905.0,0
+327,Crayon Rail System,1988,7905.0,0
+328,Crayon Rail System,1989,7905.0,0
+329,Crayon Rail System,1990,1200.0,1
+330,Crayon Rail System,1991,1200.0,0
+331,Crayon Rail System,1992,4024.0,2
+332,Crayon Rail System,1993,4024.0,0
+333,Crayon Rail System,1994,6082.0,3
+334,Crayon Rail System,1995,6082.0,0
+335,Crayon Rail System,1996,6082.0,0
+336,Crayon Rail System,1997,6082.0,0
+337,Crayon Rail System,1998,4210.0,2
+338,Crayon Rail System,1999,4210.0,0
+339,Crayon Rail System,2000,11561.0,1
+340,Crayon Rail System,2001,2704.0,2
+341,Crayon Rail System,2002,2704.0,0
+342,Crayon Rail System,2003,6042.0,2
+343,Crayon Rail System,2004,3029.0,1
+344,Crayon Rail System,2005,3029.0,0
+345,Crayon Rail System,2006,3029.0,0
+346,Crayon Rail System,2007,3559.0,1
+347,Crayon Rail System,2008,3559.0,0
+348,Crayon Rail System,2009,2893.0,1
+349,Crayon Rail System,2010,2893.0,0
+350,Crayon Rail System,2011,2893.0,0
+351,Crayon Rail System,2012,5075.0,1
+352,Crayon Rail System,2013,5075.0,0
+353,Crayon Rail System,2014,5075.0,0
+354,Crayon Rail System,2015,5075.0,0
+355,Crayon Rail System,2016,5075.0,0
+356,Crayon Rail System,2017,5075.0,0
+357,Crayon Rail System,2018,4035.0,1
+358,Crayon Rail System,2019,4035.0,0
+359,Crayon Rail System,2020,4035.0,0
+360,Deck Building,1981,0,0
+361,Deck Building,1982,3064.0,1
+362,Deck Building,1983,3064.0,0
+363,Deck Building,1984,3064.0,0
+364,Deck Building,1985,3064.0,0
+365,Deck Building,1986,3064.0,0
+366,Deck Building,1987,3064.0,0
+367,Deck Building,1988,3064.0,0
+368,Deck Building,1989,3064.0,0
+369,Deck Building,1990,3064.0,0
+370,Deck Building,1991,3064.0,0
+371,Deck Building,1992,3064.0,0
+372,Deck Building,1993,3064.0,0
+373,Deck Building,1994,2684.0,1
+374,Deck Building,1995,2684.0,0
+375,Deck Building,1996,3190.0,1
+376,Deck Building,1997,3190.0,0
+377,Deck Building,1998,3190.0,0
+378,Deck Building,1999,3190.0,0
+379,Deck Building,2000,13601.0,1
+380,Deck Building,2001,13601.0,0
+381,Deck Building,2002,3414.0,1
+382,Deck Building,2003,3414.0,0
+383,Deck Building,2004,10482.0,1
+384,Deck Building,2005,1202.0,1
+385,Deck Building,2006,1202.0,0
+386,Deck Building,2007,377.0,1
+387,Deck Building,2008,76.0,1
+388,Deck Building,2009,1580.0,6
+389,Deck Building,2010,3498.0,12
+390,Deck Building,2011,4255.0,27
+391,Deck Building,2012,6119.0,37
+392,Deck Building,2013,6093.0,50
+393,Deck Building,2014,4965.0,67
+394,Deck Building,2015,4663.0,73
+395,Deck Building,2016,5267.0,87
+396,Deck Building,2017,5799.0,81
+397,Deck Building,2018,5036.0,78
+398,Deck Building,2019,5757.0,19
+399,Deck Building,2020,5757.0,0
+400,Grid Movement,1981,12840.0,3
+401,Grid Movement,1982,3216.0,2
+402,Grid Movement,1983,13490.0,1
+403,Grid Movement,1984,13020.0,1
+404,Grid Movement,1985,3915.0,2
+405,Grid Movement,1986,5557.0,5
+406,Grid Movement,1987,8660.0,3
+407,Grid Movement,1988,7076.0,3
+408,Grid Movement,1989,4994.0,3
+409,Grid Movement,1990,1145.0,1
+410,Grid Movement,1991,10262.0,3
+411,Grid Movement,1992,6633.0,7
+412,Grid Movement,1993,6958.0,2
+413,Grid Movement,1994,336.0,2
+414,Grid Movement,1995,6619.0,3
+415,Grid Movement,1996,7526.0,3
+416,Grid Movement,1997,6283.0,10
+417,Grid Movement,1998,8865.0,3
+418,Grid Movement,1999,2320.0,9
+419,Grid Movement,2000,4944.0,3
+420,Grid Movement,2001,3879.0,7
+421,Grid Movement,2002,7563.0,7
+422,Grid Movement,2003,5647.0,9
+423,Grid Movement,2004,4011.0,15
+424,Grid Movement,2005,6108.0,11
+425,Grid Movement,2006,4934.0,12
+426,Grid Movement,2007,7021.0,13
+427,Grid Movement,2008,5718.0,19
+428,Grid Movement,2009,4688.0,20
+429,Grid Movement,2010,3945.0,20
+430,Grid Movement,2011,4345.0,30
+431,Grid Movement,2012,6061.0,27
+432,Grid Movement,2013,5741.0,53
+433,Grid Movement,2014,5008.0,49
+434,Grid Movement,2015,5962.0,66
+435,Grid Movement,2016,5522.0,70
+436,Grid Movement,2017,5558.0,68
+437,Grid Movement,2018,6340.0,66
+438,Grid Movement,2019,6283.0,16
+439,Grid Movement,2020,6283.0,0
+440,Hidden Traitor,1981,0,0
+441,Hidden Traitor,1982,0,0
+442,Hidden Traitor,1983,0,0
+443,Hidden Traitor,1984,0,0
+444,Hidden Traitor,1985,0,0
+445,Hidden Traitor,1986,0,0
+446,Hidden Traitor,1987,0,0
+447,Hidden Traitor,1988,0,0
+448,Hidden Traitor,1989,0,0
+449,Hidden Traitor,1990,0,0
+450,Hidden Traitor,1991,0,0
+451,Hidden Traitor,1992,0,0
+452,Hidden Traitor,1993,0,0
+453,Hidden Traitor,1994,0,0
+454,Hidden Traitor,1995,0,0
+455,Hidden Traitor,1996,0,0
+456,Hidden Traitor,1997,0,0
+457,Hidden Traitor,1998,0,0
+458,Hidden Traitor,1999,0,0
+459,Hidden Traitor,2000,0,0
+460,Hidden Traitor,2001,0,0
+461,Hidden Traitor,2002,0,0
+462,Hidden Traitor,2003,0,0
+463,Hidden Traitor,2004,696.0,2
+464,Hidden Traitor,2005,349.0,1
+465,Hidden Traitor,2006,349.0,0
+466,Hidden Traitor,2007,349.0,0
+467,Hidden Traitor,2008,431.0,2
+468,Hidden Traitor,2009,207.0,1
+469,Hidden Traitor,2010,4611.0,1
+470,Hidden Traitor,2011,1956.0,2
+471,Hidden Traitor,2012,2520.0,2
+472,Hidden Traitor,2013,1772.0,2
+473,Hidden Traitor,2014,1237.0,7
+474,Hidden Traitor,2015,1456.0,3
+475,Hidden Traitor,2016,2954.0,5
+476,Hidden Traitor,2017,1425.0,4
+477,Hidden Traitor,2018,5275.0,8
+478,Hidden Traitor,2019,10851.0,2
+479,Hidden Traitor,2020,10851.0,0
+480,Modular Board,1981,10828.0,4
+481,Modular Board,1982,8249.0,7
+482,Modular Board,1983,5933.0,5
+483,Modular Board,1984,9545.0,2
+484,Modular Board,1985,8977.0,5
+485,Modular Board,1986,3901.0,5
+486,Modular Board,1987,9857.0,8
+487,Modular Board,1988,8916.0,6
+488,Modular Board,1989,5996.0,7
+489,Modular Board,1990,4898.0,6
+490,Modular Board,1991,10587.0,7
+491,Modular Board,1992,12547.0,6
+492,Modular Board,1993,7792.0,13
+493,Modular Board,1994,9956.0,6
+494,Modular Board,1995,5476.0,12
+495,Modular Board,1996,9531.0,8
+496,Modular Board,1997,7855.0,11
+497,Modular Board,1998,12227.0,13
+498,Modular Board,1999,6521.0,15
+499,Modular Board,2000,6313.0,14
+500,Modular Board,2001,8973.0,25
+501,Modular Board,2002,9072.0,29
+502,Modular Board,2003,8506.0,36
+503,Modular Board,2004,5822.0,34
+504,Modular Board,2005,7802.0,39
+505,Modular Board,2006,7564.0,44
+506,Modular Board,2007,7588.0,31
+507,Modular Board,2008,6445.0,47
+508,Modular Board,2009,7339.0,37
+509,Modular Board,2010,6410.0,59
+510,Modular Board,2011,5303.0,68
+511,Modular Board,2012,6337.0,61
+512,Modular Board,2013,6458.0,77
+513,Modular Board,2014,5803.0,76
+514,Modular Board,2015,5747.0,112
+515,Modular Board,2016,6225.0,92
+516,Modular Board,2017,5329.0,119
+517,Modular Board,2018,5466.0,96
+518,Modular Board,2019,6263.0,36
+519,Modular Board,2020,8991.0,2
+520,Role Playing,1981,9992.0,5
+521,Role Playing,1982,9179.0,4
+522,Role Playing,1983,4938.0,2
+523,Role Playing,1984,12686.0,3
+524,Role Playing,1985,8143.0,9
+525,Role Playing,1986,7974.0,5
+526,Role Playing,1987,7491.0,4
+527,Role Playing,1988,9396.0,4
+528,Role Playing,1989,6904.0,5
+529,Role Playing,1990,6388.0,3
+530,Role Playing,1991,8665.0,3
+531,Role Playing,1992,10078.0,4
+532,Role Playing,1993,10990.0,7
+533,Role Playing,1994,8987.0,2
+534,Role Playing,1995,4240.0,4
+535,Role Playing,1996,10366.0,3
+536,Role Playing,1997,7878.0,2
+537,Role Playing,1998,5482.0,2
+538,Role Playing,1999,1113.0,1
+539,Role Playing,2000,9364.0,6
+540,Role Playing,2001,7882.0,6
+541,Role Playing,2002,9380.0,8
+542,Role Playing,2003,6410.0,9
+543,Role Playing,2004,5697.0,10
+544,Role Playing,2005,8036.0,12
+545,Role Playing,2006,9051.0,10
+546,Role Playing,2007,9301.0,10
+547,Role Playing,2008,8032.0,14
+548,Role Playing,2009,7813.0,9
+549,Role Playing,2010,5196.0,9
+550,Role Playing,2011,4929.0,11
+551,Role Playing,2012,6738.0,10
+552,Role Playing,2013,7216.0,21
+553,Role Playing,2014,3369.0,17
+554,Role Playing,2015,5737.0,39
+555,Role Playing,2016,6318.0,30
+556,Role Playing,2017,4579.0,45
+557,Role Playing,2018,5461.0,28
+558,Role Playing,2019,6034.0,10
+559,Role Playing,2020,11740.0,1
+560,Rondel,1981,0,0
+561,Rondel,1982,0,0
+562,Rondel,1983,0,0
+563,Rondel,1984,0,0
+564,Rondel,1985,0,0
+565,Rondel,1986,0,0
+566,Rondel,1987,0,0
+567,Rondel,1988,0,0
+568,Rondel,1989,0,0
+569,Rondel,1990,0,0
+570,Rondel,1991,0,0
+571,Rondel,1992,0,0
+572,Rondel,1993,0,0
+573,Rondel,1994,0,0
+574,Rondel,1995,0,0
+575,Rondel,1996,0,0
+576,Rondel,1997,0,0
+577,Rondel,1998,0,0
+578,Rondel,1999,0,0
+579,Rondel,2000,0,0
+580,Rondel,2001,0,0
+581,Rondel,2002,0,0
+582,Rondel,2003,0,0
+583,Rondel,2004,0,0
+584,Rondel,2005,641.0,1
+585,Rondel,2006,161.0,1
+586,Rondel,2007,787.0,1
+587,Rondel,2008,787.0,0
+588,Rondel,2009,412.0,3
+589,Rondel,2010,710.0,2
+590,Rondel,2011,710.0,0
+591,Rondel,2012,1161.0,1
+592,Rondel,2013,5740.0,1
+593,Rondel,2014,1090.0,1
+594,Rondel,2015,1732.0,1
+595,Rondel,2016,3208.0,3
+596,Rondel,2017,3208.0,0
+597,Rondel,2018,1503.0,3
+598,Rondel,2019,1503.0,0
+599,Rondel,2020,1503.0,0
+600,Route Building,1981,6934.0,1
+601,Route Building,1982,1068.0,1
+602,Route Building,1983,1068.0,0
+603,Route Building,1984,7538.0,3
+604,Route Building,1985,2705.0,1
+605,Route Building,1986,830.0,2
+606,Route Building,1987,8410.0,2
+607,Route Building,1988,8410.0,0
+608,Route Building,1989,2818.0,1
+609,Route Building,1990,2425.0,3
+610,Route Building,1991,1565.0,1
+611,Route Building,1992,3402.0,4
+612,Route Building,1993,3402.0,0
+613,Route Building,1994,9119.0,6
+614,Route Building,1995,4727.0,7
+615,Route Building,1996,7280.0,4
+616,Route Building,1997,5606.0,2
+617,Route Building,1998,4048.0,9
+618,Route Building,1999,3359.0,8
+619,Route Building,2000,6267.0,9
+620,Route Building,2001,3507.0,6
+621,Route Building,2002,3225.0,8
+622,Route Building,2003,4320.0,12
+623,Route Building,2004,2222.0,11
+624,Route Building,2005,3482.0,22
+625,Route Building,2006,4469.0,13
+626,Route Building,2007,5020.0,19
+627,Route Building,2008,5817.0,18
+628,Route Building,2009,4908.0,24
+629,Route Building,2010,3718.0,20
+630,Route Building,2011,6195.0,23
+631,Route Building,2012,4927.0,27
+632,Route Building,2013,6658.0,21
+633,Route Building,2014,5761.0,24
+634,Route Building,2015,4745.0,24
+635,Route Building,2016,5569.0,28
+636,Route Building,2017,4124.0,31
+637,Route Building,2018,4990.0,37
+638,Route Building,2019,6475.0,10
+639,Route Building,2020,7184.0,1
+640,Stock Holding,1981,11344.0,5
+641,Stock Holding,1982,11344.0,0
+642,Stock Holding,1983,11344.0,0
+643,Stock Holding,1984,11344.0,0
+644,Stock Holding,1985,15063.0,1
+645,Stock Holding,1986,7660.0,2
+646,Stock Holding,1987,12139.0,6
+647,Stock Holding,1988,12139.0,0
+648,Stock Holding,1989,8592.0,2
+649,Stock Holding,1990,4539.0,3
+650,Stock Holding,1991,9992.0,2
+651,Stock Holding,1992,5057.0,4
+652,Stock Holding,1993,5057.0,0
+653,Stock Holding,1994,5652.0,4
+654,Stock Holding,1995,5999.0,4
+655,Stock Holding,1996,12621.0,4
+656,Stock Holding,1997,13405.0,3
+657,Stock Holding,1998,6297.0,4
+658,Stock Holding,1999,3883.0,5
+659,Stock Holding,2000,5660.0,6
+660,Stock Holding,2001,9213.0,6
+661,Stock Holding,2002,6081.0,6
+662,Stock Holding,2003,9329.0,5
+663,Stock Holding,2004,4530.0,5
+664,Stock Holding,2005,5885.0,13
+665,Stock Holding,2006,3932.0,9
+666,Stock Holding,2007,5384.0,7
+667,Stock Holding,2008,3761.0,6
+668,Stock Holding,2009,4999.0,11
+669,Stock Holding,2010,4796.0,15
+670,Stock Holding,2011,5155.0,14
+671,Stock Holding,2012,7892.0,9
+672,Stock Holding,2013,4945.0,5
+673,Stock Holding,2014,5514.0,10
+674,Stock Holding,2015,5276.0,14
+675,Stock Holding,2016,5711.0,7
+676,Stock Holding,2017,4934.0,17
+677,Stock Holding,2018,7126.0,8
+678,Stock Holding,2019,6136.0,2
+679,Stock Holding,2020,7184.0,1
+680,Time Track,1981,0,0
+681,Time Track,1982,8696.0,1
+682,Time Track,1983,8696.0,0
+683,Time Track,1984,8696.0,0
+684,Time Track,1985,247.0,1
+685,Time Track,1986,247.0,0
+686,Time Track,1987,247.0,0
+687,Time Track,1988,247.0,0
+688,Time Track,1989,247.0,0
+689,Time Track,1990,247.0,0
+690,Time Track,1991,247.0,0
+691,Time Track,1992,247.0,0
+692,Time Track,1993,6571.0,2
+693,Time Track,1994,6571.0,0
+694,Time Track,1995,6571.0,0
+695,Time Track,1996,6571.0,0
+696,Time Track,1997,6571.0,0
+697,Time Track,1998,6571.0,0
+698,Time Track,1999,6571.0,0
+699,Time Track,2000,6571.0,0
+700,Time Track,2001,6571.0,0
+701,Time Track,2002,6571.0,0
+702,Time Track,2003,6571.0,0
+703,Time Track,2004,2898.0,4
+704,Time Track,2005,2898.0,0
+705,Time Track,2006,2898.0,0
+706,Time Track,2007,550.0,2
+707,Time Track,2008,4805.0,3
+708,Time Track,2009,2944.0,4
+709,Time Track,2010,1628.0,4
+710,Time Track,2011,7661.0,3
+711,Time Track,2012,9418.0,5
+712,Time Track,2013,5585.0,9
+713,Time Track,2014,9395.0,9
+714,Time Track,2015,5159.0,9
+715,Time Track,2016,7428.0,9
+716,Time Track,2017,6802.0,12
+717,Time Track,2018,7453.0,21
+718,Time Track,2019,9861.0,1
+719,Time Track,2020,9861.0,0
+720,Variable Phase Order,1981,0,0
+721,Variable Phase Order,1982,13596.0,1
+722,Variable Phase Order,1983,13596.0,0
+723,Variable Phase Order,1984,13596.0,0
+724,Variable Phase Order,1985,13596.0,0
+725,Variable Phase Order,1986,4739.0,1
+726,Variable Phase Order,1987,4739.0,0
+727,Variable Phase Order,1988,9566.0,1
+728,Variable Phase Order,1989,9566.0,0
+729,Variable Phase Order,1990,9566.0,0
+730,Variable Phase Order,1991,9566.0,0
+731,Variable Phase Order,1992,7568.0,3
+732,Variable Phase Order,1993,3643.0,2
+733,Variable Phase Order,1994,6456.0,2
+734,Variable Phase Order,1995,8289.0,2
+735,Variable Phase Order,1996,4579.0,1
+736,Variable Phase Order,1997,8563.0,3
+737,Variable Phase Order,1998,5014.0,2
+738,Variable Phase Order,1999,9506.0,1
+739,Variable Phase Order,2000,2763.0,1
+740,Variable Phase Order,2001,13797.0,3
+741,Variable Phase Order,2002,4189.0,5
+742,Variable Phase Order,2003,8204.0,5
+743,Variable Phase Order,2004,9716.0,5
+744,Variable Phase Order,2005,8811.0,9
+745,Variable Phase Order,2006,8429.0,8
+746,Variable Phase Order,2007,5978.0,10
+747,Variable Phase Order,2008,5447.0,10
+748,Variable Phase Order,2009,2100.0,7
+749,Variable Phase Order,2010,7722.0,13
+750,Variable Phase Order,2011,5240.0,18
+751,Variable Phase Order,2012,2376.0,17
+752,Variable Phase Order,2013,6490.0,17
+753,Variable Phase Order,2014,5862.0,27
+754,Variable Phase Order,2015,4709.0,17
+755,Variable Phase Order,2016,4597.0,28
+756,Variable Phase Order,2017,3765.0,21
+757,Variable Phase Order,2018,4340.0,20
+758,Variable Phase Order,2019,3631.0,5
+759,Variable Phase Order,2020,3631.0,0
+760,Variable Player Powers,1981,9433.0,6
+761,Variable Player Powers,1982,7448.0,7
+762,Variable Player Powers,1983,4883.0,9
+763,Variable Player Powers,1984,10420.0,2
+764,Variable Player Powers,1985,4437.0,7
+765,Variable Player Powers,1986,6944.0,6
+766,Variable Player Powers,1987,4358.0,5
+767,Variable Player Powers,1988,8891.0,3
+768,Variable Player Powers,1989,6129.0,9
+769,Variable Player Powers,1990,3874.0,7
+770,Variable Player Powers,1991,9125.0,9
+771,Variable Player Powers,1992,6158.0,8
+772,Variable Player Powers,1993,7704.0,11
+773,Variable Player Powers,1994,7938.0,12
+774,Variable Player Powers,1995,8153.0,14
+775,Variable Player Powers,1996,10474.0,11
+776,Variable Player Powers,1997,8496.0,16
+777,Variable Player Powers,1998,10115.0,14
+778,Variable Player Powers,1999,5800.0,12
+779,Variable Player Powers,2000,8202.0,23
+780,Variable Player Powers,2001,9024.0,21
+781,Variable Player Powers,2002,6113.0,31
+782,Variable Player Powers,2003,7410.0,34
+783,Variable Player Powers,2004,7366.0,50
+784,Variable Player Powers,2005,6801.0,36
+785,Variable Player Powers,2006,7867.0,44
+786,Variable Player Powers,2007,8345.0,46
+787,Variable Player Powers,2008,6499.0,41
+788,Variable Player Powers,2009,6076.0,58
+789,Variable Player Powers,2010,4991.0,66
+790,Variable Player Powers,2011,5493.0,82
+791,Variable Player Powers,2012,5201.0,102
+792,Variable Player Powers,2013,5520.0,132
+793,Variable Player Powers,2014,6076.0,137
+794,Variable Player Powers,2015,5186.0,201
+795,Variable Player Powers,2016,5647.0,198
+796,Variable Player Powers,2017,5169.0,220
+797,Variable Player Powers,2018,5448.0,197
+798,Variable Player Powers,2019,6568.0,53
+799,Variable Player Powers,2020,10428.0,3
+800,Worker Placement,1981,0,0
+801,Worker Placement,1982,0,0
+802,Worker Placement,1983,0,0
+803,Worker Placement,1984,0,0
+804,Worker Placement,1985,0,0
+805,Worker Placement,1986,0,0
+806,Worker Placement,1987,0,0
+807,Worker Placement,1988,0,0
+808,Worker Placement,1989,0,0
+809,Worker Placement,1990,0,0
+810,Worker Placement,1991,1565.0,1
+811,Worker Placement,1992,1565.0,0
+812,Worker Placement,1993,1565.0,0
+813,Worker Placement,1994,1565.0,0
+814,Worker Placement,1995,13476.0,1
+815,Worker Placement,1996,8964.0,1
+816,Worker Placement,1997,8964.0,0
+817,Worker Placement,1998,7444.0,1
+818,Worker Placement,1999,8934.0,2
+819,Worker Placement,2000,6162.0,3
+820,Worker Placement,2001,6162.0,0
+821,Worker Placement,2002,782.0,1
+822,Worker Placement,2003,2608.0,1
+823,Worker Placement,2004,2132.0,1
+824,Worker Placement,2005,816.0,3
+825,Worker Placement,2006,681.0,2
+826,Worker Placement,2007,1316.0,7
+827,Worker Placement,2008,3066.0,12
+828,Worker Placement,2009,1898.0,12
+829,Worker Placement,2010,3262.0,24
+830,Worker Placement,2011,3844.0,37
+831,Worker Placement,2012,4188.0,41
+832,Worker Placement,2013,4833.0,51
+833,Worker Placement,2014,4479.0,44
+834,Worker Placement,2015,3741.0,64
+835,Worker Placement,2016,5285.0,70
+836,Worker Placement,2017,4824.0,88
+837,Worker Placement,2018,4682.0,75
+838,Worker Placement,2019,5483.0,22
+839,Worker Placement,2020,5483.0,0
